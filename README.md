@@ -28,7 +28,7 @@ I enjoy designing clean backend structures, building APIs, and solving real prob
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,git,github,postgresql,mysql,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,git,github,mongodb,docker,postgresql,mysql,vscode"/>
 
 </p>
 
